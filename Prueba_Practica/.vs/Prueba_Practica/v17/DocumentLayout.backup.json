@@ -1,0 +1,704 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PA\\Clases\\Prueba_Practica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\utils\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\utils\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\presentation\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\presentation\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\presentation\\controllers\\multascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\presentation\\controllers\\multascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\presentation\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\presentation\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\presentation\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\presentation\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\presentation\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\presentation\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\dataaccess\\repositories\\iprestamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\dataaccess\\repositories\\iprestamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\dataaccess\\repositories\\imultarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\dataaccess\\repositories\\imultarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\dataaccess\\repositories\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\dataaccess\\repositories\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\dataaccess\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\dataaccess\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\dataaccess\\repositories\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\dataaccess\\repositories\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\dataaccess\\repositories\\multarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\dataaccess\\repositories\\multarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\dataaccess\\repositories\\prestamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\dataaccess\\repositories\\prestamorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\dataaccess\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\dataaccess\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\dataaccess\\repositories\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\dataaccess\\repositories\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\business\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\business\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\business\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\business\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\business\\services\\prestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\business\\services\\prestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\business\\interfaces\\iprestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\business\\interfaces\\iprestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\business\\services\\multaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\business\\services\\multaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\business\\interfaces\\imultaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\business\\interfaces\\imultaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\business\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\business\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\business\\interfaces\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\business\\interfaces\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\business\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\business\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\business\\interfaces\\iarticuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\business\\interfaces\\iarticuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\dtos\\prestamoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\dtos\\prestamoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\dtos\\prestamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\dtos\\prestamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\dtos\\prestamocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\dtos\\prestamocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\dtos\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\dtos\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\entities\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\entities\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\entities\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\entities\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\entities\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\entities\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|d:\\pa\\clases\\prueba_practica\\prueba_practica\\entities\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571DCC07-DE3D-4DBF-88EF-18EFFDD0CE8D}|Prueba_Practica\\Prueba_Practica.csproj|solutionrelative:prueba_practica\\entities\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\appsettings.json",
+              "RelativeDocumentMoniker": "Prueba_Practica\\appsettings.json",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\appsettings.json",
+              "RelativeToolTip": "Prueba_Practica\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T06:07:31.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultasController.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Presentation\\Controllers\\MultasController.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Presentation\\Controllers\\MultasController.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Presentation\\Controllers\\MultasController.cs",
+              "RelativeToolTip": "Prueba_Practica\\Presentation\\Controllers\\MultasController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:18:44.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrestamosController.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Presentation\\Controllers\\PrestamosController.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Presentation\\Controllers\\PrestamosController.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Presentation\\Controllers\\PrestamosController.cs",
+              "RelativeToolTip": "Prueba_Practica\\Presentation\\Controllers\\PrestamosController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:40:04.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Program.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Program.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Program.cs",
+              "RelativeToolTip": "Prueba_Practica\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:03:00.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PdfGenerator.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Utils\\PdfGenerator.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Utils\\PdfGenerator.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Utils\\PdfGenerator.cs",
+              "RelativeToolTip": "Prueba_Practica\\Utils\\PdfGenerator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:38:52.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Presentation\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Presentation\\Controllers\\CuentaController.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Presentation\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "Prueba_Practica\\Presentation\\Controllers\\CuentaController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:11:57.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Presentation\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Presentation\\Controllers\\CategoriaController.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Presentation\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Prueba_Practica\\Presentation\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:27:40.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Presentation\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Presentation\\Controllers\\ArticulosController.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Presentation\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Prueba_Practica\\Presentation\\Controllers\\ArticulosController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwGEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:05:07.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\DataAccess\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Prueba_Practica\\DataAccess\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:07:59.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPrestamoRepository.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\IPrestamoRepository.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\DataAccess\\Repositories\\IPrestamoRepository.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\IPrestamoRepository.cs",
+              "RelativeToolTip": "Prueba_Practica\\DataAccess\\Repositories\\IPrestamoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:07:43.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMultaRepository.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\IMultaRepository.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\DataAccess\\Repositories\\IMultaRepository.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\IMultaRepository.cs",
+              "RelativeToolTip": "Prueba_Practica\\DataAccess\\Repositories\\IMultaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:12:00.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoriaRepository.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\ICategoriaRepository.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\DataAccess\\Repositories\\ICategoriaRepository.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\ICategoriaRepository.cs",
+              "RelativeToolTip": "Prueba_Practica\\DataAccess\\Repositories\\ICategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:25:23.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\DataAccess\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Prueba_Practica\\DataAccess\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:07:33.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IArticuloRepository.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\IArticuloRepository.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\DataAccess\\Repositories\\IArticuloRepository.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\IArticuloRepository.cs",
+              "RelativeToolTip": "Prueba_Practica\\DataAccess\\Repositories\\IArticuloRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:08:52.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MultaRepository.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\MultaRepository.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\DataAccess\\Repositories\\MultaRepository.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\MultaRepository.cs",
+              "RelativeToolTip": "Prueba_Practica\\DataAccess\\Repositories\\MultaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:11:26.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PrestamoRepository.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\PrestamoRepository.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\DataAccess\\Repositories\\PrestamoRepository.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\PrestamoRepository.cs",
+              "RelativeToolTip": "Prueba_Practica\\DataAccess\\Repositories\\PrestamoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T21:31:26.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\DataAccess\\Repositories\\CategoriaRepository.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "Prueba_Practica\\DataAccess\\Repositories\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:25:47.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ArticuloRepository.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\ArticuloRepository.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\DataAccess\\Repositories\\ArticuloRepository.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\ArticuloRepository.cs",
+              "RelativeToolTip": "Prueba_Practica\\DataAccess\\Repositories\\ArticuloRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:06:46.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\DataAccess\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DataAccess\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Prueba_Practica\\DataAccess\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:09:08.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Business\\Services\\UsuarioService.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Prueba_Practica\\Business\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:11:20.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Business\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "Prueba_Practica\\Business\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:10:47.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PrestamoService.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Services\\PrestamoService.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Business\\Services\\PrestamoService.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Services\\PrestamoService.cs",
+              "RelativeToolTip": "Prueba_Practica\\Business\\Services\\PrestamoService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:11:09.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPrestamoService.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Interfaces\\IPrestamoService.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Business\\Interfaces\\IPrestamoService.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Interfaces\\IPrestamoService.cs",
+              "RelativeToolTip": "Prueba_Practica\\Business\\Interfaces\\IPrestamoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:05:33.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MultaService.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Services\\MultaService.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Business\\Services\\MultaService.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Services\\MultaService.cs",
+              "RelativeToolTip": "Prueba_Practica\\Business\\Services\\MultaService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:12:32.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IMultaService.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Interfaces\\IMultaService.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Business\\Interfaces\\IMultaService.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Interfaces\\IMultaService.cs",
+              "RelativeToolTip": "Prueba_Practica\\Business\\Interfaces\\IMultaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:13:05.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Services\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Business\\Services\\CategoriaService.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Services\\CategoriaService.cs",
+              "RelativeToolTip": "Prueba_Practica\\Business\\Services\\CategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:26:41.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICategoriaService.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Interfaces\\ICategoriaService.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Business\\Interfaces\\ICategoriaService.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Interfaces\\ICategoriaService.cs",
+              "RelativeToolTip": "Prueba_Practica\\Business\\Interfaces\\ICategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:26:20.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ArticuloService.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Services\\ArticuloService.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Business\\Services\\ArticuloService.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Services\\ArticuloService.cs",
+              "RelativeToolTip": "Prueba_Practica\\Business\\Services\\ArticuloService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:56:07.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IArticuloService.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Interfaces\\IArticuloService.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Business\\Interfaces\\IArticuloService.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Business\\Interfaces\\IArticuloService.cs",
+              "RelativeToolTip": "Prueba_Practica\\Business\\Interfaces\\IArticuloService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:10:28.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PrestamoUpdateDTO.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DTOs\\PrestamoUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\DTOs\\PrestamoUpdateDTO.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DTOs\\PrestamoUpdateDTO.cs",
+              "RelativeToolTip": "Prueba_Practica\\DTOs\\PrestamoUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:04:42.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PrestamoDTO.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DTOs\\PrestamoDTO.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\DTOs\\PrestamoDTO.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DTOs\\PrestamoDTO.cs",
+              "RelativeToolTip": "Prueba_Practica\\DTOs\\PrestamoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:04:33.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PrestamoCreateDTO.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DTOs\\PrestamoCreateDTO.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\DTOs\\PrestamoCreateDTO.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DTOs\\PrestamoCreateDTO.cs",
+              "RelativeToolTip": "Prueba_Practica\\DTOs\\PrestamoCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:04:24.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ArticuloDTO.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DTOs\\ArticuloDTO.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\DTOs\\ArticuloDTO.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\DTOs\\ArticuloDTO.cs",
+              "RelativeToolTip": "Prueba_Practica\\DTOs\\ArticuloDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:04:16.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Entities\\Usuario.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Prueba_Practica\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:16:13.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Entities\\Rol.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Entities\\Rol.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Entities\\Rol.cs",
+              "RelativeToolTip": "Prueba_Practica\\Entities\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:16:03.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Entities\\Prestamo.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Entities\\Prestamo.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Entities\\Prestamo.cs",
+              "RelativeToolTip": "Prueba_Practica\\Entities\\Prestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:03:46.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Multa.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Entities\\Multa.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Entities\\Multa.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Entities\\Multa.cs",
+              "RelativeToolTip": "Prueba_Practica\\Entities\\Multa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:10:36.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Entities\\Estado.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Entities\\Estado.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Entities\\Estado.cs",
+              "RelativeToolTip": "Prueba_Practica\\Entities\\Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:15:41.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Entities\\Categoria.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Entities\\Categoria.cs",
+              "RelativeToolTip": "Prueba_Practica\\Entities\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:15:30.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Entities\\Articulo.cs",
+              "RelativeDocumentMoniker": "Prueba_Practica\\Entities\\Articulo.cs",
+              "ToolTip": "D:\\PA\\Clases\\Prueba_Practica\\Prueba_Practica\\Entities\\Articulo.cs",
+              "RelativeToolTip": "Prueba_Practica\\Entities\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:26:08.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
