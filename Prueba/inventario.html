@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard de Inventario</title>
+  <link rel="stylesheet" href="inventario.css" />
+</head>
+<body>
+  <header class="dashboard-header">
+    <div class="left-section">
+      <div class="logo">📦 Inventario</div>
+      <nav class="nav-menu">
+        <a href="#">Inicio</a>
+        <a href="#">Categorías</a>
+        <a href="#">Artículos</a>
+        <a href="#">Préstamos</a>
+        <a href="#">Reportes</a>
+        <a href="#">Multas</a>
+      </nav>
+    </div>
+    <div class="user-info">
+      <span id="nombre-usuario"></span> |
+      <span id="rol-usuario"></span>
+      <button id="cerrar-sesion">Cerrar sesión</button>
+    </div>
+  </header>
+
+  <main class="dashboard-main">
+  
+    <!-- Sección Categorías -->
+    <section id="categorias-section" style="display: none;">
+      <h3>Categorías disponibles</h3>
+
+      <div id="formulario-categoria">
+        <h4>Registrar nueva categoría</h4>
+        <form id="form-crear-categoria">
+          <input type="text" id="nombre-categoria" placeholder="Nombre de la categoría" required />
+          <button type="submit">Guardar</button>
+        </form>
+      </div>
+
+      <table id="tabla-categorias" border="1" cellpadding="8" cellspacing="0">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+
+    </section>
+
+    <!-- Sección Artículos -->
+    <section id="articulos-section" style="display: none;">
+      <h3>Listado de Artículos</h3>
+
+      <div id="formulario-articulo" style="background-color: #f9f9f9; padding: 15px; border: 1px solid #ddd; border-radius: 6px; margin-top: 20px; margin-bottom: 20px;">
+        <h4>Registrar nuevo artículo</h4>
+        <form id="form-crear-articulo" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+          <input type="text" id="codigo-articulo" placeholder="Código" required style="padding: 8px; width: 200px; border: 1px solid #ccc; border-radius: 4px;" />
+          <input type="text" id="nombre-articulo" placeholder="Nombre" required style="padding: 8px; width: 200px; border: 1px solid #ccc; border-radius: 4px;" />
+          <input type="text" id="ubicacion-articulo" placeholder="Ubicación" required style="padding: 8px; width: 200px; border: 1px solid #ccc; border-radius: 4px;" />
+
+          <select id="categoria-articulo" required style="padding: 8px; width: 210px; border: 1px solid #ccc; border-radius: 4px;">
+            <option value="">Seleccione Categoría</option>
+            <!-- Opciones cargadas dinámicamente -->
+          </select>
+
+          <button type="submit" style="padding: 8px 14px; background-color: #4c4379; color: white; border: none; border-radius: 4px; cursor: pointer; min-width: 100px;">
+            Guardar
+          </button>
+          <button type="button" id="btn-cancelar" style="padding: 8px 14px; background-color: #4c4379; color: white; border: none; border-radius: 4px; cursor: pointer; min-width: 100px;">
+            Cancelar
+          </button>
+        </form>
+      </div>
+
+      <table id="tabla-articulos" border="1" cellpadding="8" cellspacing="0">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Código</th>
+            <th>Nombre</th>
+            <th>Ubicación</th>
+            <th>Categoría</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+
+    
+
+    <!-- Sección Préstamos -->
+    <section id="prestamos-section" style="display: none;">
+      <h3>Listado de Préstamos</h3>
+
+        <div id="formulario-prestamo">
+        <h4>Registrar nuevo préstamo</h4>
+        <form id="form-crear-prestamo">
+          <select id="usuario-prestamo" required>
+            <option value="">Seleccione Usuario</option>
+            <!-- Usuarios se cargan dinámicamente -->
+          </select>
+
+          <select id="articulo-prestamo" required>
+            <option value="">Seleccione Artículo</option>
+            <!-- Artículos disponibles se cargan dinámicamente -->
+          </select>
+
+          <input type="date" id="fecha-solicitud-prestamo" required />
+          <input type="date" id="fecha-entrega-prestamo" required />
+
+          <button type="submit">Guardar</button>
+        </form>
+      </div>
+
+      <table id="tabla-prestamos" border="1" cellpadding="8" cellspacing="0">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Usuario</th>
+            <th>Artículo</th>
+            <th>Fecha Solicitud</th>
+            <th>Fecha Entrega</th>
+            <th>Fecha Devolución</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <!-- Sección Multas -->
+    <section id="multas-section" style="display: none;">
+      <h3>Listado de Multas</h3>
+
+      <table id="tabla-multas" border="1" cellpadding="8" cellspacing="0" style="width: 100%; margin-top: 15px;">
+        <thead>
+          <tr>
+            <th>ID Multa</th>
+            <th>ID Préstamo</th>
+            <th>Monto</th>          
+            <th>Fecha Registro</th>
+            <th>Pagado</th>
+            <th>Acciones</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+
+    <!-- Sección Reportes -->
+    <section id="reportes-section" style="display: none;">
+      <h3>Reportes</h3>
+
+      <div style="margin-top: 20px;">
+        <h4>Exportar Listado de Artículos</h4>
+        <button id="btn-exportar-articulos-pdf" style="padding: 10px 16px; background-color: #4c4379; color: white; border: none; border-radius: 4px; cursor: pointer;">
+          Exportar a PDF
+        </button>
+      </div>
+
+      <div style="margin-top: 30px;">
+        <h4>Exportar Listado de Préstamos</h4>
+        <button id="btn-exportar-prestamos-excel" style="padding: 10px 16px; background-color: #4c4379; color: white; border: none; border-radius: 4px; cursor: pointer;">
+          Exportar a Excel
+        </button>
+      </div>
+    </section>
+
+
+  </main>
+
+  <script src="inventario.js"></script>
+  <!-- Librería para generar PDF -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.3/html2pdf.bundle.min.js"></script>
+
+<!-- Librería para exportar a Excel -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+
+</body>
+</html>
+
